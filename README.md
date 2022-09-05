@@ -7,5 +7,6 @@ Object-oriented PHP MVC project for my studies.
 https://github.com/Axel-1/Simple-Inventory
 
 email - admin@localhost
+
 senha - admin
 
